@@ -46,7 +46,7 @@ framework for Java v1.1+, which can be downloaded here:
     http://download.playframework.org/releases/play-1.1.zip
 
 Download and install Play! wherever you want on your system (follow the
-instructions on their website), and make sure that the "play" command is in
+instructions on [their website](https://www.playframework.com/documentation/1.1/install)), and make sure that the "play" command is in
 your $PATH. Once that is done, all you need to do to run DUALIST is:
 
     $ cd <path-to>/dualist
